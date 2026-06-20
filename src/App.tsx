@@ -697,7 +697,7 @@ export default function App() {
         <div className="flex items-center gap-2.5 relative">
           <a
             id="btn-discord-invite"
-            href="https://discord.gg/pepflicks"
+            href="https://discord.gg/q6CEqN5ntV"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-1.5 px-3 py-1 bg-[#5865F2] hover:bg-[#4752C4] text-white font-bold rounded transition-all duration-150 cursor-pointer text-[11px] shadow-sm rounded-sm"
