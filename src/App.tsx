@@ -741,7 +741,7 @@ export default function App() {
                       <span className="font-bold text-white">➕ My List:</span> Save the movies or TV series you want to track by clicking the bookmark/watchlist buttons.
                     </li>
                     <li>
-                      <span className="font-bold text-white">📺 Series Episodes:</span> For TV shows, you can easily filter by season and select individual episodes inside the episode drawer, Don't expect movies in theaters to be good quality on pepflick the same week they came out
+                      <span className="font-bold text-white">📺 Series Episodes:</span> For TV shows, you can easily filter by season and select individual episodes inside the episode drawer, Don't expect movies in theaters to be good quality on pepflick the same week they came out.
                     </li>
                   </ul>
                   <button
